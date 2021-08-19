@@ -7,82 +7,74 @@
 - Shubhadip
 - Parmeshwar
 - Anmol
-- Sampath
 - Satpal
 - Rajkumar
 
 ## Shubhadip
-- Bhupendra
+- Akshay 
 - Rajesh
 
 ## Parmeshwar
-- Priyanshu
+- Ankit
+- Bhupendra
 - Aarif
 
 ## Vishal
-- Suraj Shah
-- Praveen
+- Tushar
+- Akshit Bhatt
+- Dhruv
 
 ## Siddik
 - Suraj kumar
-- ranjan
-
-## Anmol
-- Tushar
-- pradeep
+- Khwaja Baig
+- Amol Mungusmare
 
 ## Subhash
--akshay
--nashir
+- Pravin
+- Saikiran 
+- Prathmesh
 
 ## Satpal
+- Shubham Kulkarni
 - Shubham Ramteke
 
 ## Rajkumar
-- Dhruv
-- Ankit
+- Vikash kumar
 
-## Suraj Shah
-- Rahul Saryam
-- Vikash Sharma
+## Akshay Pandey
+- Roshan
+- Khaja Baig
 
 ## Praveen
-- Vipin
+- Dipesh 
 - Anurag Pathak
+- Abhey
 
 ## Tushar
 - Amit 
-- Roshan
+- Nasir
 
 ## Ranjan
-- Pawan
-- Nikhil
+- Suryasen
 
 ## Hemant
-- Manoj Prajapati
-- khwaja
+- Vicky Yede
 
 ## Riyaz
-- Prathmesh
-- Dipesh 
-- 
+- Satyam Shukla
 
 ## Amol Mugusmare
-- Surya Sen 
+- Pradeep 
+- Bipin
 
-## Rahul Saryam
-- Satyam Shukla
-- akshit
+## Shubham kulkarni
+- Akash Deshmukh
 
-## Priyanshu
-- Shubham kulkarni
-- vicky yede
+## Saikiran 
+- Nikhil 
 
-## Pawan
-- Vikash kumar
-- Amol
+## Ankit
+- Satyam Kushwah
 
-## Vikash Sharma
-- sai Kiran 
-- Satyam kushwah
+
 
