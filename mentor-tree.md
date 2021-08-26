@@ -2,17 +2,21 @@
 
 ## Anand/Prabhakar
 - Vishal
-- Siddik
 - Subhash
 - Shubhadip
 - Parmeshwar
 - Anmol
 - Satpal
 - Rajkumar
+- Riyaz
+- Ranjan
+- Hemant
+- Amarpal
 
 ## Shubhadip
 - Akshay 
-- Rajesh
+- Amol
+- Suraj.K
 
 ## Parmeshwar
 - Ankit
@@ -24,31 +28,25 @@
 - Akshit Bhatt
 - Dhruv
 
-## Siddik
-- Suraj kumar
-- Khwaja Baig
-- Amol Mungusmare
-
 ## Subhash
-- Pravin
+- Praveen
 - Saikiran 
-- Prathmesh
 
 ## Satpal
-- Shubham Kulkarni
+- Abhey
 - Shubham Ramteke
 
 ## Rajkumar
-- Vikash kumar
+- Bipin
+- Nikhil
 
 ## Akshay Pandey
 - Roshan
-- Khaja Baig
+- Satyam Shukla
 
 ## Praveen
-- Dipesh 
+- Shubham.K 
 - Anurag Pathak
-- Abhey
 
 ## Tushar
 - Amit 
@@ -58,23 +56,32 @@
 - Suryasen
 
 ## Hemant
-- Vicky Yede
+- Khaja Baig
 
 ## Riyaz
-- Satyam Shukla
+- Vicky 
 
 ## Amol Mugusmare
 - Pradeep 
-- Bipin
 
-## Shubham kulkarni
+## Shubham.K
 - Akash Deshmukh
 
 ## Saikiran 
-- Nikhil 
+- Rajesh
 
 ## Ankit
 - Satyam Kushwah
+- Dipesh
 
+## Satyam Kushwa
+- Satish
+
+## Pawan
+- Vikash.K
+
+## Suraj Shah
+- Pawan
+- Prathamesh
 
 
