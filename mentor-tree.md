@@ -76,7 +76,5 @@
 ## Ankit
 - Satyam Kushwah
 
-## xxxx
-- random
 
 
