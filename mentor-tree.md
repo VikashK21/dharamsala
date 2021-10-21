@@ -6,6 +6,7 @@
 ### Pair No. 1:
 - Shubhadip
 - Vishal
+- Shabid
 
 ### Pair No. 2:
 - Praveen
