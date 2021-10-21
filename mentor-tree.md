@@ -1,87 +1,87 @@
-# Mentorship tree
+# Mentor Tree
 
-## Anand/Prabhakar
-- Vishal
-- Subhash
+
+## Anand Bhai
+
+### Pair No. 1:
 - Shubhadip
-- Parmeshwar
-- Anmol
-- Satpal
-- Rajkumar
-- Riyaz
-- Ranjan
-- Hemant
-- Amarpal
+- Vishal
 
-## Shubhadip
-- Akshay 
-- Amol
-- Suraj.K
-
-## Parmeshwar
-- Ankit
-- Bhupendra
-- Aarif
-
-## Vishal
-- Tushar
-- Akshit Bhatt
-- Dhruv
-
-## Subhash
+### Pair No. 2:
 - Praveen
-- Saikiran 
+- Ranjan
+- Tushar
 
-## Satpal
+### Pair No. 3:
+- Aarif
+- Ankit
+- Pawan
+
+
+### Ankit
+#### Pair No. 1:
+- Prathamesh
+- Vikash
+#### Pair No. 2:
+- Satyam K
+- Bhupendra
+
+### Aarif
+#### In Pair:
+- Akshit
+- Sai Kiran
+
+### Pawan
+#### Pair No. 1:
+- Suraj
+- Shubham
+#### Pair No. 2:
+- Nasir
+- Amol
+
+
+## Prateek Bhai
+
+### Satyam Kushwah
+#### Pair No. 1:
+- Satish
+- Roshan
+#### Pair No. 2:
+- Akash
+- Khaja
+
+### Sai Kiran
+#### In Pair:
+- Abhimanyu
+- Ujjwal
+- Aadarsh
+
+### Shubham
+#### In Pair:
+- Bharat
+- Mahendra
+
+### Vikash
+#### In Pair:
+- Surya Sen
+- Manoj
+
+### Amol
+#### In Pair:
+- Harshal
+- Pradeep 
+- Amit
+
+### Prathamesh
+#### In Pair:
+- Rajesh
 - Abhey
-- Shubham Ramteke
 
-## Rajkumar
+### Nasir 
+#### In Pair:
 - Bipin
 - Nikhil
 
-## Akshay Pandey
-- Roshan
-- Satyam Shukla
 
-## Praveen
-- Shubham.K 
-- Anurag Pathak
-
-## Tushar
-- Amit 
-- Nasir
-
-## Ranjan
-- Suryasen
-
-## Hemant
-- Khaja Baig
-
-## Riyaz
-- Vicky 
-
-## Amol Mugusmare
-- Pradeep 
-
-## Shubham.K
-- Akash Deshmukh
-
-## Saikiran 
-- Rajesh
-
-## Ankit
-- Satyam Kushwah
-- Dipesh
-
-## Satyam Kushwa
-- Satish
-
-## Pawan
-- Vikash.K
-
-## Suraj Shah
-- Pawan
-- Prathamesh
 
 
