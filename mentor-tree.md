@@ -43,7 +43,7 @@
 
 ## Prateek Bhai
 
-### Satyam Kushwah
+### Satyam K
 #### Pair No. 1:
 - Satish
 - Roshan
