@@ -1,7 +1,7 @@
 # Mentorship Tree
 
 
-## Anand Bhai
+## Anand Patel
 
 ### Pair No. 1:
 - Shubhadip
@@ -42,7 +42,7 @@
 - Amol
 
 
-## Prateek Bhai
+## Prateek Deshmuk
 
 ### Satyam K
 #### Pair No. 1:
